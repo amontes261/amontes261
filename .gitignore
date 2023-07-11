@@ -1,0 +1,7 @@
+#######################################
+## gitignore for amontes261's README ##
+## ---- Created by Alex Montes ---- ##
+#######################################
+
+# macOS iCloud Drive Storage Helper
+.DS_Store
