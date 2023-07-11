@@ -5,3 +5,6 @@
 
 # macOS iCloud Drive Storage Helper
 .DS_Store
+
+# Local files
+/local
