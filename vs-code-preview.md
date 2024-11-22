@@ -24,46 +24,49 @@
                 <br>
             </div>
             <div style="font-size: 2.25vw; margin-top: 2.25%;">
-                🏠 <strong> Brooklyn, NY </strong> <br>
-            </div>
-            <div style="font-size: 2.25vw; margin-top: 2.25%;">
                 🎓 <strong> Rensselaer Polytechnic Institute </strong> <br>
             </div>
             <div style="font-size: 1.75vw;">
                 &ensp; &#x2022; B.S. Computer Science '23 <br>
             </div>
             <div style="font-size: 1.75vw;">
-                &emsp; &ensp; <i> Cognitive Science of AI Minor </i> <br>
+                &emsp; <i> Cognitive Science of AI Minor </i> <br>
             </div>
             <div style="font-size: 1.75vw;">
                 &ensp; &#x2022; M.S. Computer Science '24 <br>
             </div>
             <div style="font-size: 2.25vw; margin-top: 2.25%;">
-                💭 <strong> Interests </strong> <br>
+                💼 <strong> Amazon Web Services (AWS) </strong> <br>
+            </div>
+            <div style="font-size: 2.25vw; margin-top: 2.25%;">
+                🏠 <strong> Seattle, WA </strong> <br>
+            </div>
+            <div style="font-size: 2.25vw; margin-top: 2.25%;">
+                👀 <strong> Interests </strong> <br>
             </div>
             <div style="font-size: 1.75vw;">
-                &ensp; &#x2022; Artificial Intelligence <br>
-            </div>
-            <div style="font-size: 1.75vw;">
-                &ensp; &#x2022; Machine Learning <br>
+                &ensp; &#x2022; Automation Engineering <br>
             </div>
             <div style="font-size: 1.75vw;">
                 &ensp; &#x2022; Software Engineering/Development <br>
             </div>
             <div style="font-size: 1.75vw;">
-                &ensp; &#x2022; Frontend Development <br>
-            </div>
-            <div style="font-size: 1.75vw;">
-                &ensp; &#x2022; Automation <br>
+                &ensp; &#x2022; Artificial Intelligence & Machine Learning <br>
             </div>
             <div style="font-size: 1.75vw;">
                 &ensp; &#x2022; Computer Vision <br>
             </div>
             <div style="font-size: 2.25vw; margin-top: 2.25%;">
-                🔧 <strong> Current Project </strong> <br>
+                🔧 <strong> Current Project(s) </strong> <br>
             </div>
             <div style="font-size: 1.75vw;">
-                &emsp;&ensp; <a style="text-decoration: none;" href="https://alexmontes.net" target="_blank">alexmontes.net</a> (Portfolio Website) <br>
+                &ensp; &#x2022; Thunderbird (TrueNAS x NextCloud Storage) <br>
+            </div>
+            <div style="font-size: 1.75vw;">
+                &ensp; &#x2022; Watchdog (HomeAssistant Monitoring System) <br>
+            </div>
+            <div style="font-size: 1.75vw;">
+                &ensp; &#x2022; <a style="text-decoration: none;" href="https://alexmontes.net" target="_blank">alexmontes.net</a> (Portfolio Website) <br>
             </div>
             <div style="font-size: 1.125vw; margin-top: 2.25%;">
                 <br>
